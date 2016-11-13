@@ -1,0 +1,15 @@
+{
+  "name": "ramda-playground",
+  "version": "0.0.1",
+  "description": "Just a testbed for playing around with Ramda.js",
+  "author": "Tim Destan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timdestan/ramda-playground.git"
+  },
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "ramda-fantasy": "^0.7.0"
+  }
+}
